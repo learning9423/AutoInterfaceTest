@@ -5,3 +5,4 @@ this is branch1
 =======
 this is branch2
 >>>>>>> branch2
+version 1
