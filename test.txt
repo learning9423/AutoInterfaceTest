@@ -1,3 +1,7 @@
 我正在练习提交代码
+<<<<<<< HEAD
 this is branch1
 
+=======
+this is branch2
+>>>>>>> branch2
